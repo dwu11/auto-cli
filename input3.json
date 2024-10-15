@@ -459,6 +459,19 @@
                 "extras" : [
                     { "enabled": false }
                 ]
+            },
+		{
+                "fname": "GPhotos.apk",
+                "dname": "Google Photos (7.3.0.682956182)",
+                "link": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=7315199&key=2ef0775873b6bba399ef97b52b7f1e4c3e9ce1a9&forcebaseapk=true",
+                "hash": "19ceae05c7a8352e8ecbfa8951a86f161af8a6e9a497d18947d3cec61f979c23",
+                "patches": " ",
+                "uri" : " ",
+                "toolMod" : "dropped_",
+                "cmdMod" : " ",
+                "extras" : [
+                    { "enabled": false }
+                ]
             }
         ],
         "extras": {
